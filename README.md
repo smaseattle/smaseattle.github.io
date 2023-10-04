@@ -1,9 +1,6 @@
- <!DOCTYPE html>
 <html>
 <body>
-body {
-  background-color: #fef9e7;
-}
+
 <h1>S.M.A. Law</h1>
 <h3>The Law Office of Sabiha Malikani Ahmad, P.L.L.C.</h3>
 
