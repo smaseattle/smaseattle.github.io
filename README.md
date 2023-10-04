@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1 align="center" style="font-family: Times New Roman">S.M.A. Law</h1>
+<h1 align="center" style="font-family: Times New Roman">S.M.A. Law</h1>  
 <h3 align="center" style="font-family: Times New Roman">The Law Office of Sabiha Malikani Ahmad, P.L.L.C.</h3>
 
 <p align="center" style="font-family: Times New Roman">S.M.A. Law is the law practice of Ms. Sabiha Malikani Ahmad.  Through her practice, Ms. Ahmad seeks to represent individuals and families who have suffered injury or wrongdoing at the hands of private or public actors.</p>
