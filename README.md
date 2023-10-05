@@ -1,4 +1,5 @@
 <html>
+
 <body>
 <pre>
 
@@ -53,11 +54,11 @@ Panjabi.  </p>
 
 
 
-<h4 align="center" style="font-family: Times New Roman">CONTACT</h4>
+<p align="center" style="font-family: Times New Roman">CONTACT</p>
 
-<h4 align="center" style="font-family: Times New Roman">HOURS</h4>
+<p align="center" style="font-family: Times New Roman">HOURS</p>
 
-<h4 align="center" style="font-family: Times New Roman">LOCATION</h4>
+<p align="center" style="font-family: Times New Roman">LOCATION</p>
 
 
 
