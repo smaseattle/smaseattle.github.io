@@ -43,15 +43,8 @@ Panjabi.  </p>
 
 
 
-
-
-<p align="center" style="font-family: Times New Roman">CONTACT</p>
-
-<p align="center" style="font-family: Times New Roman">HOURS</p>
-
-<p align="center" style="font-family: Times New Roman">LOCATION</p>
-
-
+<p align="center" style="font-family: Times New Roman">CONTACT
+sabiha@smaseattle.net</p>
 
 
 
