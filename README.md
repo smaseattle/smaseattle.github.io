@@ -25,7 +25,7 @@
 
 
 
-<img src="https://static3.museoreinasofia.es/sites/default/files/obras/DE00050_0.jpg" width="1200" alt="Pablo Picasso's painting, Guernica" class="center">
+<img src="https://static3.museoreinasofia.es/sites/default/files/obras/DE00050_0.jpg" width="1200" alt="Pablo Picasso's painting, Guernica" align="center">
 
 <p align="center" style="font-family: Times New Roman"><em>Guernica</em>, oil on canvas by Pablo Picasso, 1937; in the Museo Nacional Centro de Arte Reina Sofía, Madrid.</p>
 
