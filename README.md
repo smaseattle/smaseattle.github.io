@@ -65,7 +65,7 @@ The above quote is prominently featured in the American Museum of Tort Law. "Tor
 to describe lawsuits to recover compensation for harm. Reckless drivers, corporate fraudsters, abusive priests 
 and imams--these are a few examples of people in society who may be held accountable by their victims through 
 civil tort law. Civil law is the sole avenue in our legal system for victims of wrongdoing to directly initiate
-a proceeding where they may speak about what happened to them--they can "speak" through their attorney's 
+a public proceeding where they may speak about what happened to them--they can "speak" through their attorney's 
 presentation of the case, and they can even take the stand and testify themselves. The case may be presented 
 at trial (most likely publicly) before a judge alone, or before a judge and jury. Sometimes, clients opt to 
 "settle" their case with the opposing party before the matter ever reaches trial; this is one way to potentially 
