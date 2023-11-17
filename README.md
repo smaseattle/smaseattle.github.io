@@ -75,7 +75,7 @@ desires, whether they wish to pursue trial or to settle. The law prohibits attor
 interest. An attorney may be incentivized to settle based on mismanagement of their practice or finances.  
 Or they may wish to settle because they dislike trialwork. Ultimately, an attorney should not act or advise clients 
 based on their own interests. They should remain clearheaded, neutral, and unafraid of oral advocacy, so that they 
-readily pursue the client's best interest.
+can readily pursue the client's best interest.
 
 *A note on criminal versus civil Law. You may wonder: "What about criminal law? Is that not an avenue for victims?"
 Criminal cases are pursued by the government against an individual or group that may have committed a crime.  
