@@ -21,7 +21,7 @@
         Through her practice, Ms. Ahmad seeks to represent individuals and 
         families who have suffered injury or wrongdoing at the hands of 
         public or private actors.</p> 
- <div class="center-container">
+ <div class="responsive-image">
         <img src="https://static3.museoreinasofia.es/sites/default/files/obras/DE00050_0.jpg" alt="Large Centered Image" class="responsive-image">
     </div>
       <p align="center" style="font-family: Times New Roman"><em>Guernica</em>, oil on canvas by Pablo Picasso, 1937; in the Museo Nacional Centro de Arte Reina Sofía, Madrid, Spain.</p>
