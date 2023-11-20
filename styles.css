@@ -1,5 +1,5 @@
 body {
-    font-family: 'Times New Roman', sans-serif;
+    font-family: 'Times New Roman';
     margin: 0;
     padding: 0;
     background-color: #f8f8f8; /* Adjust background color */
@@ -35,7 +35,7 @@ section {
 }
 
 img.responsive-image {
-    max-width: 100%;
+    max-width: 70%;
     height: auto;
     display: block;
     margin: 0 auto; /* Center the image */
