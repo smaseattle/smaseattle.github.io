@@ -14,10 +14,10 @@
                 <li><a href="#">Resume</a></li>
             </ul>
         </nav>
- <header class="center-text">
-        <h1>S.M.A. Law</h1>
-<h3>The Law Office of Sabiha Malikani Ahmad, P.L.L.C.</h3>
-      <p>S.M.A. Law is the law practice of Ms. Sabiha Malikani Ahmad.
+ <header align="center">
+        <h1 align="center">S.M.A. Law</h1>
+<h3 align="center">The Law Office of Sabiha Malikani Ahmad, P.L.L.C.</h3>
+      <p align="center">S.M.A. Law is the law practice of Ms. Sabiha Malikani Ahmad.
         Through her practice, Ms. Ahmad seeks to represent individuals and 
         families who have suffered injury or wrongdoing at the hands of 
         public or private actors.</p> 
@@ -30,7 +30,7 @@
 
 
 <footer>
-        <p>&copy; 2023 The Law Office of Sabiha Malikani Ahmad, PLLC. All rights reserved.</p>
+        <p align="center">&copy; 2023 The Law Office of Sabiha Malikani Ahmad, PLLC. All rights reserved.</p>
     </footer>
 </body>
 </html>
