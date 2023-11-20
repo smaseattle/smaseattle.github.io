@@ -14,7 +14,7 @@
                 <li><a href="#">Resume</a></li>
             </ul>
         </nav>
- <header>
+ <header class="center-text">
         <h1>S.M.A. Law</h1>
 <h3>The Law Office of Sabiha Malikani Ahmad, P.L.L.C.</h3>
       <p>S.M.A. Law is the law practice of Ms. Sabiha Malikani Ahmad.
