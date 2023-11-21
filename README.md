@@ -5,6 +5,61 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
     <title>S.M.A. Law</title>
+    <style>body {
+    font-family: 'Times New Roman';
+    margin: 0;
+    padding: 20px;
+    background-color: #faebd7; /* Adjust background color */
+    color: #000000;
+}
+
+header {
+       padding: 10px;
+}
+
+}
+
+.center-text {
+    text-align: center;
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.content-paragraph {
+    margin-bottom: 20px; /* Adjust margin space between paragraphs */
+    line-height: 1.6; /* Improve readability with appropriate line height */
+}
+
+}
+
+.center-container {
+    max-width: 100%;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+}</style>
 </head>
 <body>
            <nav>
@@ -22,7 +77,7 @@
         families who have suffered injury or wrongdoing at the hands of 
         public or private actors.</p> 
  <div class="center-container">
-        <img src="https://static3.museoreinasofia.es/sites/default/files/obras/DE00050_0.jpg" alt="Picture of Pablo Picasso's painting, Guernica">
+        <img src="https://static3.museoreinasofia.es/sites/default/files/obras/DE00050_0.jpg" alt="Large Centered Image">
     </div>
       <p align="center" style="font-family: Times New Roman"><em>Guernica</em>, oil on canvas by Pablo Picasso, 1937; in the Museo Nacional Centro de Arte Reina Sofía, Madrid, Spain.</p>
     </header>
