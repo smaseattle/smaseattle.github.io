@@ -41,7 +41,7 @@ section {
 
 img.responsive-image {
     max-width: 90%;
-    height: 90%;
+    height: auto;
     display: block;
     margin: 0 auto; /* Center the image */
 }
