@@ -2,13 +2,13 @@ body {
     font-family: 'Times New Roman';
     margin: 0;
     padding: 0;
-    background-color: #555; /* Adjust background color */
-    color: #fff;
+    background-color: #faebd7; /* Adjust background color */
+    color: #000000;
 }
 
 header {
-    background-color: #555;
-    color: #fff;
+    background-color: #faebd7;
+    color: #000000;
     padding: 10px;
 }
 
@@ -48,8 +48,8 @@ img.responsive-image {
 }
 
 footer {
-    background-color: #555;
-    color: #fff;
+    background-color: #faebd7;
+    color: #000000;
     text-align: center;
     padding: 10px;
 }
