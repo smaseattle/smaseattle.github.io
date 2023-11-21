@@ -7,9 +7,7 @@ body {
 }
 
 header {
-    background-color: #faebd7;
-    color: #000000;
-    padding: 10px;
+       padding: 10px;
 }
 
 }
@@ -52,8 +50,6 @@ img {
 }
 
 footer {
-    background-color: #faebd7;
-    color: #000000;
     text-align: center;
     padding: 10px;
 }
