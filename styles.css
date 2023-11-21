@@ -39,11 +39,16 @@ section {
     line-height: 1.6; /* Improve readability with appropriate line height */
 }
 
+}
+
+.center-container {
+    max-width: 100%;
+    text-align: center;
+}
+
 img {
-    max-width: 90%;
+    max-width: 100%;
     height: auto;
-    display: block;
-    margin: 0 auto; /* Center the image */
 }
 
 footer {
