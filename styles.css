@@ -39,7 +39,7 @@ section {
     line-height: 1.6; /* Improve readability with appropriate line height */
 }
 
-img.responsive-image {
+img {
     max-width: 90%;
     height: auto;
     display: block;
