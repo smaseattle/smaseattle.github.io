@@ -1,7 +1,7 @@
 body {
     font-family: 'Times New Roman';
     margin: 0;
-    padding: 0;
+    padding: 20px;
     background-color: #faebd7; /* Adjust background color */
     color: #000000;
 }
@@ -42,7 +42,6 @@ section {
 img.responsive-image {
     max-width: auto;
     height: auto;
-    display: block;
     text-align: center;
     margin: 0 auto; /* Center the image */
 }
