@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
     <title>S.M.A. Law</title>
     <style>body {
     font-family: 'Times New Roman';
@@ -11,10 +10,6 @@
     padding: 20px;
     background-color: #faebd7; /* Adjust background color */
     color: #000000;
-}
-
-header {
-       padding: 10px;
 }
 
 }
@@ -33,11 +28,6 @@ nav ul li {
     margin-right: 10px;
 }
 
-section {
-    max-width: 800px;
-    margin: 20px auto;
-    padding: 20px;
-}
 
 .content-paragraph {
     margin-bottom: 20px; /* Adjust margin space between paragraphs */
@@ -62,6 +52,7 @@ footer {
 }</style>
 </head>
 <body>
+     <h1 align="center"> <em>Website Under Construction</em></h1>
            <nav>
             <ul>
               <li><a href="#">Home</a></li>
@@ -69,22 +60,22 @@ footer {
                 <li><a href="#">Resume</a></li>
             </ul>
         </nav>
- <header align="center">
-        <h1 align="center">S.M.A. Law</h1>
-<h3 align="center">The Law Office of Sabiha Malikani Ahmad, P.L.L.C.</h3>
-      <p align="center">S.M.A. Law is the law practice of Ms. Sabiha Malikani Ahmad.
-        Through her practice, Ms. Ahmad seeks to represent individuals and 
-        families who have suffered injury or wrongdoing at the hands of 
-        public or private actors.</p> 
- <div class="center-container">
-        <img src="https://static3.museoreinasofia.es/sites/default/files/obras/DE00050_0.jpg" alt="Large Centered Image">
+    <h1 align="center">S.M.A. Law</h1>
+        <h3 align="center">The Law Office of Sabiha Malikani Ahmad,     P.L.L.C.</h3>
+        <p align="center">S.M.A. Law is the law practice of Ms. Sabiha Malikani Ahmad. Through her practice, Ms. Ahmad seeks to represent individuals and families who have suffered injury or wrongdoing at the hands of public or private actors.</p> 
+ 
+<div class="center-container">
+    <img src="https://static3.museoreinasofia.es/sites/default/files/obras/DE00050_0.jpg" alt="Image of Pablo Picasso's Painting, Guernica">
     </div>
-      <p align="center" style="font-family: Times New Roman"><em>Guernica</em>, oil on canvas by Pablo Picasso, 1937; in the Museo Nacional Centro de Arte Reina Sofía, Madrid, Spain.</p>
-    </header>
+    <p align="center"><em>Guernica</em>, oil on canvas by Pablo Picasso, 1937; in the Museo Nacional Centro de Arte Reina Sofía, Madrid, Spain.</p>
+ 
+ <h4 align="center">ABOUT</h4>
+    <p align="center">Ms. Ahmad is the daughter of Zakia Khan and Mubeen Ahmad, who both immigrated from Karachi, Pakistan to Kent, Washington in the 1980's. Ms. Ahmad was born and raised in Washington State, received her undergraduate and law degrees from the University of Washington in Seattle, and is a general practice attorney licensed in Washington State (WSBA #59046). She is fluent in Urdu/Hindi and conversant in Panjabi.</p>
 
+<h4 align="center">CONTACT</h4>
+<p align="center">sabiha@smaseattle.net</p>
 
-
-<footer>
+<footer>  
         <p align="center">&copy; 2023 The Law Office of Sabiha Malikani Ahmad, PLLC. All rights reserved.</p>
     </footer>
 </body>
