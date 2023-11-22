@@ -2,16 +2,14 @@ body {font-family: "Times New Roman", serif;
 padding: 20px;
 text-align: center;
 background-color: #faf3e6;
+  color: #272625;
 }
 
-#main-heading {padding:30% 0% 0%}
-#main-heading-text {padding:0% 15% 30%}
-#about-heading {padding:30% 0% 0%}
-#about-text {padding:0% 15% 30%}
-#contact-text {padding: 0% 0% 30%}
+#main-heading {padding:15% 0% 0%}
+#main-heading-text {padding:0% 20% 15%}
+#about-heading {padding:15% 0% 0%}
+#about-text {padding:0% 20% 15%}
+#contact-text {padding: 0% 0% 15%}
 #guernica {max-width:100%;
 height: auto;
 }
-
-
-
