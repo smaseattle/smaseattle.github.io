@@ -55,9 +55,10 @@ footer {
      <h1 align="center"> <em>Website Under Construction</em></h1>
            <nav>
             <ul>
-              <li><a href="#">Home</a></li>
-              <li><a href="#">Blog: The People's Law Journal</a></li>
-                <li><a href="#">Resume</a></li>
+                <li><a href="#">Curriculum Vitae</a></li>
+                <li><a href="#">Blog: S.M.A. Law Review</a></li>
+                <li><a href="#">About</li>
+                <li><a href="#">Contact</li>
             </ul>
         </nav>
     <h1 align="center">S.M.A. Law</h1>
