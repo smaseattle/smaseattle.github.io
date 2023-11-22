@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>S.M.A. Law</title>
     <style>body {
-    font-family: 'Times New Roman';
+    font-family: 'Times New Roman', serif;
     margin: 0;
     padding: 20px;
     background-color: #faebd7; /* Adjust background color */
