@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h3><em>Website Under Construction</em></h1>
+  <h3><em>Website Under Construction</em></h3>
     <h1 id="main-heading">S.M.A. Law</h1>
   <h3>The Law Office of Sabiha Malikani Ahmad, P.L.L.C.</h3>
   <p id="main-heading-text">S.M.A. Law is the law practice of Ms. Sabiha Malikani Ahmad. Through her practice, Ms. Ahmad seeks to represent individuals and families who have suffered injury or wrongdoing at the hands of public or private actors.</p>
