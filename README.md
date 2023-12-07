@@ -5,6 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>S.M.A. Law</title>
   <link rel="stylesheet" href="style.css">
+
+  <ul class="topnav">
+  <li><a href="#home">Home</a></li>
+  <li><a href="#about-heading">About</a></li>
+  <li><a href="#contact-heading">Contact</a></li>
+  <li><a href="/Sabiha-CV">Curriculum Vitae</a></li>
+</ul>
+
 </head>
 <body>
   <h3><em>Website Under Construction</em></h3>
