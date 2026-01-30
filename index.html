@@ -11,7 +11,6 @@
   <li><a href="#home">Home</a></li>
   <li><a href="#about-heading">About</a></li>
   <li><a href="#contact-heading">Contact</a></li>
-  <li><a href="/Sabiha-CV">Curriculum Vitae</a></li>
 </ul>
     <h1 id="main-heading">S.M.A. Law</h1>
   <h3>The Law Office of Sabiha Malikani Ahmad, P.L.L.C.</h3>
@@ -27,5 +26,5 @@
 <p id="contact-text">sabiha@smaseattle.net</p>
 
 <footer>  
-        <p>&copy; 2023, 2024 The Law Office of Sabiha Malikani Ahmad, PLLC. All rights reserved.</p>
+        <p>&copy; 2023-2026 The Law Office of Sabiha Malikani Ahmad, PLLC. All rights reserved.</p>
     </footer>
